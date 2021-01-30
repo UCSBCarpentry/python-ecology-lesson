@@ -1,3 +1,9 @@
+# UCSBCarpentries DC Python Lessons
+
+- These are a truncated set of [the original lessons](https://github.com/datacarpentry/python-ecology-lesson/issues).
+- Workshop [details here](https://ucsbcarpentry.github.io/2021-02-18-ucsb-online/)
+
+# Original README
 [![Create a Slack Account with us][slack-account-icon]][slack-heroku]
 [![Slack Status][slack-status-icon]][slack-status]
 
