@@ -4,7 +4,7 @@ teaching: 40
 exercises: 50
 questions:
     - "How can I visualize data in Python?"
-    - "What is 'grammar of graphics'?"
+    - "What is the 'grammar of graphics'?"
 objectives:
     - "Create a `plotnine` object."
     - "Set universal plot settings."
